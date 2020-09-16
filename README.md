@@ -78,13 +78,13 @@ $ curl localhost:8080/users/1/educations
 [
    {
       "description" : "Eos, explicabo, nam, tenetur et ab eius deserunt aspernatur ipsum ducimus quibusdam quis voluptatibus.",
-      "year" : "2005",
+      "year" : 2005,
       "title" : "Secondary school specializing in artistic",
       "userId" : 1
    },
    {
       "description" : "Aspernatur, mollitia, quos maxime eius suscipit sed beatae ducimus quaerat quibusdam perferendis? Iusto, quibusdam asperiores unde repellat.",
-      "year" : "2009",
+      "year" : 2009,
       "title" : "First level graduation in Graphic Design",
       "userId" : 1
    }
@@ -175,7 +175,7 @@ POST /users/:user_id/educations
 $ cat education.json
 {
     "description" : "Eos, explicabo, nam, tenetur et ab eius deserunt aspernatur ipsum ducimus quibusdam quis voluptatibus.",
-    "year" : "2005",
+    "year" : 2005,
     "title" : "Secondary school specializing in artistic",
     "userId" : 1
 }
