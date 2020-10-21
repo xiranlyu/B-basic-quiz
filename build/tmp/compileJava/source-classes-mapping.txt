@@ -4,13 +4,13 @@ com/example/demo/IdNotFoundException.java
  com.example.demo.IdNotFoundException
 com/example/demo/DemoApplication.java
  com.example.demo.DemoApplication
-com/example/demo/GlobalExceptionHandler.java
- com.example.demo.GlobalExceptionHandler
+com/example/demo/UserController.java
+ com.example.demo.UserController
 com/example/demo/Education.java
  com.example.demo.Education
 com/example/demo/User.java
  com.example.demo.User
 com/example/demo/UserService.java
  com.example.demo.UserService
-com/example/demo/UserController.java
- com.example.demo.UserController
+com/example/demo/GlobalExceptionHandler.java
+ com.example.demo.GlobalExceptionHandler
